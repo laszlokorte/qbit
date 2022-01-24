@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="ArtBoard1" x="0" y="0" width="64" height="64" style="fill:none;"/>
+    <g id="ArtBoard11" serif:id="ArtBoard1">
+        <circle cx="31.943" cy="31.908" r="31.222" style="fill:rgb(238,238,238);"/>
+        <path d="M31.943,0.295C14.496,0.295 0.331,14.46 0.331,31.908C0.331,49.355 14.496,63.52 31.943,63.52C49.391,63.52 63.556,49.355 63.556,31.908C63.556,14.46 49.391,0.295 31.943,0.295ZM31.943,1.076C48.96,1.076 62.775,14.891 62.775,31.908C62.775,48.924 48.96,62.739 31.943,62.739C14.927,62.739 1.111,48.924 1.111,31.908C1.111,14.891 14.927,1.076 31.943,1.076Z" style="fill:rgb(128,128,128);"/>
+        <circle cx="31.943" cy="31.908" r="19.654" style="fill:rgb(0,0,255);fill-opacity:0.5;"/>
+        <path d="M32.666,33.222L60.026,18.181C60.752,17.782 61.017,16.869 60.618,16.143C60.219,15.418 59.306,15.153 58.581,15.552L31.221,30.593C30.495,30.992 30.23,31.905 30.629,32.63C31.028,33.356 31.941,33.621 32.666,33.222Z" style="fill:rgb(0,0,255);"/>
+    </g>
+</svg>
